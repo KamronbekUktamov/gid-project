@@ -1,0 +1,563 @@
+@media (max-width: 1440px) {
+  .service__img1{
+    width: 291px;
+  }
+  .service__text{
+    font-size: 14px;
+  }
+  .service__title{
+    font-size: 32px;
+  }
+  .our__img{
+    width: 387px;
+  }
+  .our:after{
+    width: 767px;
+    height: 1455px;
+  }
+  .stage__row:before{
+    width: 1123px;
+    bottom: 507px;
+  }
+  .insta__img1{
+    width: 261px;
+  }
+  .catalog__row{
+    flex-direction: column;
+    row-gap: 63px;
+  }
+  .footer__icons:before{
+    left: 87px;
+  }
+  .footer__lists:before{
+    width: 1227px;
+    height: 978px;
+  }
+  .footer__icons{
+    column-gap: 36px;
+    font-size: 35px;
+  }
+  .menu__top{
+    column-gap: 411px;
+  }
+  .footer__btn{
+    left: 1183px;
+  }
+ 
+  .footer__icons:before {
+    left: -200px;
+  }
+  .footer__btn {
+    left: 992px;
+  }
+
+  .footer__icons:before {
+    left: 0px;
+  }
+
+
+  .garant__number{
+    font-size: 34px;
+  }
+  .stage__btn {
+    font-size: 24px;
+    padding: 35px 30px;
+  }
+
+}
+
+@media (max-width: 1200px) {
+  .price__card-icon{
+    width: 583px;
+  }
+  .call__form{
+    padding: 109px 156px;
+  }
+  .price__card2:after{
+    display: none;
+  }
+  .service__img1{
+    width: 236px;
+  }
+  .our:after {
+    width: 699px;
+    height: 1376px;
+  }
+  .our__img {
+    width: 326px;
+  }
+  .stage__row:before{
+    width: 978px;
+  }
+  .insta__img1 {
+    width: 251px;
+  }
+  .footer__icons:before{
+    left: 97px;
+    top: -324px;
+  }
+  .footer__btn{
+    left: 1016px;
+  }
+  .footer__lists:before{
+    width: 1037px;
+  }
+  .footer__btn{
+    display: none;
+  }
+  .footer__icons{
+    column-gap: 11px;
+  }
+
+  .garant__title-text{
+    font-size: 24px;
+  }
+  .stage__img{
+    width: 85px;
+  }
+  .stage__title{
+    font-size: 25px;
+  }
+  .stage__text{
+    font-size: 23px;
+  }
+
+  .footer__icons:before {
+    display: none;
+  }
+  .price__card-icon{
+    display: block;
+    width: 500px;
+  }
+
+  .stage__row:before{
+    display: none;
+  }
+  .stage__row{
+    gap: 135px 51px;
+  }
+}
+
+@media (max-width: 1024px) {
+  .footer__icons{
+    font-size: 30px;
+  }
+  .price__card-icon{
+    width: 545px;
+  }
+  .stage__row:before {
+    width: 955px;
+  }
+  .insta__img1 {
+    width: 241px;
+  }
+  .footer__lists:before {
+    width: 1022px;
+  }
+  .footer__bottom{
+    color: white;
+  }
+  .garant__title-text {
+    font-size: 20px;
+  }
+  .service__item {
+    font-size: 20px;
+  }
+}
+
+@media (max-width: 992px) {
+  .footer__icons:before{
+    display: none;
+  }
+  .price__row{
+    flex-direction: column;
+  }
+  .service__row{
+    flex-wrap: wrap;
+  }
+  .service__card{
+    width: 50%;
+  }
+  .service__img1 {
+    width: 365px;
+  }
+  .our__row{
+    margin-bottom: 63px;
+    column-gap: 0;
+  }
+  .our__card{
+    width: 50%;
+    position: relative;
+  }
+  .our__info{
+    position: absolute;
+    z-index: 20;
+    bottom: 24px;
+    left: 61px;
+  }
+  .our__title{
+    color: #FFFFFF;
+    font-size: 18px;
+  }
+  .our__subtitle{
+    color: #FFFFFF;
+    font-size: 18px;
+  }
+  .our__square{
+    color: #FFFFFF;
+    font-size: 14px;
+    margin: 0;
+  }
+  .our:after {
+    width: 564px;
+    height: 1357px;
+    right: 57px;
+  }
+  .stage__row:before{
+    display: none;
+  }
+  .stage__text{
+    font-size: 16px;
+  }
+  .stage__title{
+    font-size: 22px;
+  }
+  .insta__card{
+    width: calc(50% - 21px);
+  }
+  .insta__img1{
+    width: 363px;
+  }
+  .footer__lists:before {
+    display: none;
+    }
+  .footer__lists:after{
+    content: '';
+    position: absolute;
+    background: url("../images/footer/footerbg-2.png") center/cover no-repeat;
+    width: 762.58px;
+    height: 590.14px;
+    bottom: -50px;
+    left: -19px;
+    z-index: -1;
+  }
+  .footer__lists{
+    column-gap: 22px;
+    margin-bottom: 16px;
+  }
+  .footer__icons{
+    font-size: 16px;
+  }
+  .footer__bottom{
+    text-align: right;
+    color: black;
+  }
+  .garant__title-text {
+    font-size: 14px;
+  }
+  .garant__row{
+    column-gap: 37px;
+  }
+  .stage__title {
+    font-size: 19px;
+  }
+  .stage__img{
+    width: 51px;
+  }
+  .footer{
+    padding-top: 250px;
+  }
+  .garant__number {
+    font-size: 23px;
+  }
+  .stage__btn {
+    font-size: 18px;
+    padding: 17px 16px;
+    column-gap: 12px;
+  }
+  }
+
+@media (max-width: 767px) {
+  .garant__number{
+    font-size: 30px;
+  }
+  .garant__title-text{
+    font-size: 16px;
+  }
+  .garant__row{
+    column-gap: 33px;
+  }
+  .service__img1 {
+    width: 270px;
+  }
+  .our__img {
+    width: 269px;
+  }
+  .our:after {
+    width: 417px;
+    height: 1165px;
+    right: 19px;
+  }
+  .stage__text {
+    font-size: 13px;
+  }
+  .stage__number, .price__title{
+    font-size: 35px;
+  }
+  .stage__row{
+    gap: 83px 62px;
+  }
+  .we__item{
+    font-size: 17px;
+  }
+  .insta__img1 {
+    width: 267px;
+  }
+  .catalog__input{
+    padding-right: 344px;
+  }
+  .footer__lists:after{
+    width: 557.58px
+  }
+  .footer__list-title{
+    font-size: 15px;
+  }
+  .footer__item{
+    font-size: 9px;
+  }
+  .footer__icons{
+    position: relative;
+    top: -93px;
+  }
+
+  .footer{
+    padding: 167px 0 0;
+  }
+  .garant__number{
+    font-size: 34px;
+  }
+  .threed__garant{
+    font-size: 13px;
+  }
+  .garant__title-text {
+    font-size: 10px;
+  }
+  .stage__title {
+    font-size: 14px;
+  }
+  .garant__number {
+    font-size: 20px;
+  }
+  .stage__block{
+    column-gap: 4px;
+  }
+  .stage__btn {
+    font-size: 12px;
+    padding: 9px 3px;
+  }
+}
+
+@media (max-width: 576px) {
+  .best__title{
+    font-size: 34px;
+  }
+  .best__btn{
+    padding: 8px 27px;
+  }
+  .garant__row{
+    flex-direction: column;
+    row-gap: 20px;
+  }
+  .service__img1{
+    width: 193px;
+  }
+  .price__card-title{
+    font-size: 30px;
+  }
+  .price__card-text{
+    font-size: 23px;
+    line-height: normal;
+  }
+  .price__card-icon {
+    width: 389px;
+  }
+  .price__card-subtitle{
+    margin-top: 0;
+  }
+  .service__img:before{
+    display: none;
+  }
+  .service__title {
+    font-size: 23px;
+    margin-top: 23px;
+    &:before{
+      width: 10px;
+      height: 10px;
+      top: 9px;
+    }
+  }
+  .our__img {
+    width: 193px;
+  }
+  .our:after{
+    display: none;
+  }
+  .our__title, .our__subtitle{
+    font-size: 12px;
+  }
+  .our__info{
+    left: 22px;
+  }
+  .stage__card{
+    width: calc(50% - 54px);
+  }
+  .stage__btn{
+    padding: 35px 51px;
+  }
+  .insta__img1 {
+    width: 192px;
+  }
+  .catalog__title{
+    font-size: 23px;
+  }
+  .catalog__subtitle{
+    font-size: 20px;
+    margin: 22px 0 39px;
+  }
+  .catalog__input {
+    padding-right: 171px;
+  }
+  .catalog__btn{
+    font-size: 28px;
+    padding: 26px 65px;
+  }
+  .footer__lists:after{
+    width: 423px;
+    height: 400px;
+    bottom: -40px;
+  }
+  .footer__bottom{
+    text-align: left;
+    color: #BDBDBD;
+    font-size: 11px;
+  }
+  .none{
+    display: none;
+  }
+  .footer__item {
+    font-size: 22px;
+  }
+  .footer__list-title {
+    font-size: 25px;
+  }
+  .footer__icons{
+    top: 17px;
+  }
+  .footer__logo{
+    display: block;
+    width: 125px;
+  }
+  .footer{
+    padding: 0;
+  }
+  .best__header{
+    padding: 41px 29px 36px
+  }
+
+
+@media (max-width: 425px) {
+  .best__btns{
+    column-gap: 12px;
+  }
+  .best__title{
+    margin: 129px 0 127px;
+  }
+  .price__btn{
+    font-size: 20px;
+    padding: 30px 49px;
+  }
+  .price__info{
+    font-size: 24px;
+  }
+  .price__card-icon {
+    width: 356px;
+  }
+  .service__img1 {
+    width: 169px;
+  }
+  .service__text {
+    font-size: 11px;
+  }
+  .our__img {
+    width: 169px;
+  }
+  .stage__btn {
+    padding: 29px 28px;
+  }
+  .insta__img1 {
+    width: 167px;
+  }
+  .catalog__input {
+    padding-right: 139px;
+  }
+  .footer__lists:after{
+    width: 367px;
+  }
+  .footer__icons{
+    column-gap: 9px;
+  }
+  .best__header{
+    padding: 21px;
+  }
+  .best__btn{
+    font-size: 18px;
+  }
+  .garant__row{
+    padding: 37px 61px 41px
+  }
+  .price__card-icon {
+    width: 300px;
+  }
+  .service__img1{
+    width: 282px;
+  }
+  .service__row{
+    flex-direction: column;
+    row-gap: 20px;
+  }
+  .service__title {
+    font-size: 30px;
+    margin-top: 12px;
+  }
+  .our__row{
+    flex-direction: column;
+    align-items: normal;
+  }
+  .our__img {
+    width: 286px;
+  }
+  .our__subtitle, .our__title{
+    font-size: 22px;
+  }
+  .stage__btn {
+    padding: 23px 11px;
+    font-size: 28px;
+  }
+  .insta__img1 {
+    width: 133px;
+  }
+  .catalog__input {
+    padding-right: 90px;
+  }
+  .footer__lists:after {
+    width: 324px;
+  }
+  .stage__img {
+    width: 41px;
+  }
+  .stage__title {
+    font-size: 12px;
+  }
+  .footer__icons{
+    column-gap: 4px;
+  }
